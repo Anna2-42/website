@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #030303;
+    background: no-repeat center url("bi.png.jpg");
+    background-size: 100%;
+  }
+  h1 {
+    margin: 0 auto 8px;
+    text-align: center;
+    font-family: "Georgia", serif;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+  }
+  h2 {
+    font-family: "Georgia", serif;
+    text-align: center;
+    font-weight: normal;
+    color: #c70c0c;
+  }
+  .box {
+    width: 70%;
+    margin: 0 auto 8px;
+    text-align: center;
+  }
