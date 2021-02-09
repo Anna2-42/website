@@ -5,7 +5,7 @@ body {
     font-size: 14px;
     line-height: 20px;
     color: #030303;
-    background: no-repeat center url("bi.png.jpg");
+    background: no-repeat center url("./img/bi.png.jpg");
     background-size: 100%;
   }
   h1 {
